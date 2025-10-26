@@ -81,3 +81,4 @@
     <img src="https://holopin.me/alexa124" alt="@alexa124's Holopin board" />
   </a>
 </p>
+[![An image of @alexa124's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alexa124)](https://holopin.io/@alexa124)
